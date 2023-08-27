@@ -4,4 +4,4 @@
 
   - Technology in use the project: HTML, CSS, ReactJS
   
-  <center><img src="https://github.com/noeffortnomoney/text-to-speech/blob/main/images/pic1.png" alt="pic" width="600" height="500"></center>
+  <center><img src="https://github.com/noeffortnomoney/text-to-speech/blob/main/images/pic1.png" alt="pic" width="600" height="400"></center>
